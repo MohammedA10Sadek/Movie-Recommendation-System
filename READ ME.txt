@@ -1,0 +1,7 @@
+User manual
+1-First to run the program you should run main.py file as it the only way to open the program.
+	main is the main function that will ask the user if he would sign in to their acount or continue as a guest
+	(as a demo program there is only one account with "pythonproject" as username and "zewailcity" as a password).
+
+2-The user_acc function will be called from start.py file.
+	this function asks the user for the username and password if
